@@ -177,7 +177,7 @@ const visible = ref(false)
             <carbon:logo-twitter class="text-emerald-500" />
             <span>
               <a
-                href="https://twitter.com/xiaoluoboding"
+                href="https://twitter.com/robert_shaw_x"
                 class="text-neon"
                 target="_blank"
               >
